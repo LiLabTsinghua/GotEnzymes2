@@ -55,7 +55,7 @@ You can also use the scripts in this repository to reproduce the model training 
 
 If you use our work, please cite the following paper:
 
-> Bingxue Lyu, Ke Wu, Yuanyuan Huang, Xiongwen Li, Sandra Viknander, Danish Anwer, Yunfeng Yang, Diannan Lu, Eduard Kerkhoven, Aleksej Zelezniak, Dan Gao, Yu Chen, Feiran Li. (2025). GotEnzymes2: Expanding Coverage of Enzyme Kinetics and Thermal Properties.
+> Bingxue Lyu, Ke Wu, Yuanyuan Huang, Mihail Anton, Xiongwen Li, Sandra Viknander, Danish Anwer, Yunfeng Yang, Diannan Lu, Eduard Kerkhoven, Aleksej Zelezniak, Dan Gao, Yu Chen, Feiran Li. (2025). GotEnzymes2: Expanding Coverage of Enzyme Kinetics and Thermal Properties.
 
 ## Contact
 
