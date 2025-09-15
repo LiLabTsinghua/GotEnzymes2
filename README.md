@@ -9,7 +9,6 @@
 
 This is the official repository for the paper **"GotEnzymes2: Expanding Coverage of Enzyme Kinetics and Thermal Properties"**. We provide a comprehensive framework for benchmarking and optimizing prediction models for enzyme properties, along with the code used to generate the [GotEnzymes2 database](https://digitallifethu.com/gotenzymes).
 
-**Online Database:** [https://digitallifethu.com/gotenzymes](https://digitallifethu.com/gotenzymes)
 
 ## Core Features
 
@@ -17,12 +16,11 @@ This is the official repository for the paper **"GotEnzymes2: Expanding Coverage
 *   **Optimized Models**: Through systematic screening, we identified the best-performing model combinations:
     *   **Kinetics (kcat, Km, kcat/Km)**: `ProtT5` + `MolGen` + `ExtraTrees`
     *   **Thermal Properties (Topt, Tm)**: `ProtT5` + `Seq2Topt`
-*   **Large-Scale Database**: The code in this repository can reproduce the [GotEnzymes2](https://digitallifethu.com/gotenzymes) database, which contains:
+*   **Large-Scale Database** [GotEnzymes2](https://digitallifethu.com/gotenzymes) contains:
     *   **10,765** species
     *   **7.3 million** enzymes
     *   **59.6 million** prediction entries
     *   Covering **kcat, Km, kcat/Km, Topt, and Tm**
-*   **Open Source & Reproducible**: All code and data links are provided to ensure the reproducibility of our research.
 
 ## Installation
 
@@ -60,5 +58,3 @@ If you use our work, please cite the following paper:
 ## Contact
 
 *   **Feiran Li**: feiranli@sz.tsinghua.edu.cn
-*   **Yu Chen**: y.chen3@siat.ac.cn
-*   **Dan Gao**: gao.dan@sz.tsinghua.edu.cn
