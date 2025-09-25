@@ -43,8 +43,8 @@ def Kcat_predict(data_df, smi_model, seq_model, kinetic_parameter):
     print(f"Test R2 score: {test_r2:.4f}")
 
 if __name__ == '__main__':
-    smi_model_list = ['molgen']
-    seq_model_list = ['prott5']
+    smi_model_list = ['maccskeys', 'smitrans', 'molgen', 'molebert', 'unimolv1', 'unimolv2', 'chemberta2', 'ecfp', 'rdkitfp']
+    seq_model_list = ['esm2', 'esm1b', 'esm1v', 'esmc', 'prott5', 'prollama']
     kinetic_param_list = ['KCAT', 'KM', 'KKM']
 
     for seq_model in seq_model_list:
