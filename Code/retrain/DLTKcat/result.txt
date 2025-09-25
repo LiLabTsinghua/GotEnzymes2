@@ -1,0 +1,39 @@
+Loading train data from ../data/train .
+Loading test data from ../data/test .
+Loading parameters from ../data/hyparams/default.pkl .
+We use CUDA!
+epoch: 0/100;  rmse test: 1.371615; r2 test: 0.166117
+epoch: 2/100;  rmse test: 1.310943; r2 test: 0.238257
+epoch: 4/100;  rmse test: 1.298559; r2 test: 0.252581
+epoch: 6/100;  rmse test: 1.292622; r2 test: 0.2594
+epoch: 8/100;  rmse test: 1.281866; r2 test: 0.271674
+epoch: 10/100;  rmse test: 1.289152; r2 test: 0.263371
+epoch: 12/100;  rmse test: 1.174911; r2 test: 0.388142
+epoch: 14/100;  rmse test: 1.122635; r2 test: 0.441379
+epoch: 16/100;  rmse test: 1.11276; r2 test: 0.451162
+epoch: 18/100;  rmse test: 1.117157; r2 test: 0.446817
+epoch: 20/100;  rmse test: 1.090446; r2 test: 0.472953
+epoch: 22/100;  rmse test: 1.090719; r2 test: 0.472689
+epoch: 24/100;  rmse test: 1.084931; r2 test: 0.478271
+epoch: 26/100;  rmse test: 1.097838; r2 test: 0.465783
+epoch: 28/100;  rmse test: 1.081447; r2 test: 0.481617
+epoch: 30/100;  rmse test: 1.085197; r2 test: 0.478015
+epoch: 32/100;  rmse test: 1.091802; r2 test: 0.471642
+epoch: 34/100;  rmse test: 1.093528; r2 test: 0.46997
+
+epoch: 0/30;  rmse test: 1.43162; r2 test: 0.09156
+epoch: 2/30;  rmse test: 1.318201; r2 test: 0.2298
+epoch: 4/30;  rmse test: 1.170815; r2 test: 0.392401
+epoch: 6/30;  rmse test: 1.070225; r2 test: 0.492319
+epoch: 8/30;  rmse test: 1.072104; r2 test: 0.490535
+epoch: 10/30;  rmse test: 1.020509; r2 test: 0.538391
+epoch: 12/30;  rmse test: 1.019582; r2 test: 0.53923
+epoch: 14/30;  rmse test: 1.015938; r2 test: 0.542517
+epoch: 16/30;  rmse test: 1.016281; r2 test: 0.542207
+epoch: 18/30;  rmse test: 1.011223; r2 test: 0.546753
+epoch: 20/30;  rmse test: 1.010063; r2 test: 0.547793
+epoch: 22/30;  rmse test: 1.008778; r2 test: 0.548943
+epoch: 24/30;  rmse test: 1.021698; r2 test: 0.537314
+epoch: 26/30;  rmse test: 1.024554; r2 test: 0.534724
+epoch: 28/30;  rmse test: 1.021413; r2 test: 0.537573
+Done for ../data/hyparams/default.pkl.
